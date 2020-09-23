@@ -1,0 +1,68 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\GRETECH\GomPlayer\OPTION]
+"sCachePath"="C:\DOCUME~1\KRISHN~1\LOCALS~1\Temp\__gstream__.gs"
+[HKEY_CURRENT_USER\Software\Nero\Nero8\Nero - Burning Rom\Database]
+"LocalDbPath"="C:\Program Files\Nero\Nero8\Nero Burning Rom\NeroDb"
+[HKEY_CURRENT_USER\Software\Nero\Nero8\Nero - Burning Rom\Database]
+"UserDbPath"="C:\Program Files\Nero\Nero8\Nero Burning Rom\UsrDb"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Cache\Paths\path1]
+"CachePath"="C:\Documents and Settings\KRISHNA JYOTHI\Local Settings\Temporary Internet Files\Content.IE5\Cache1"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Cache\Paths\path2]
+"CachePath"="C:\Documents and Settings\KRISHNA JYOTHI\Local Settings\Temporary Internet Files\Content.IE5\Cache2"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Cache\Paths\path3]
+"CachePath"="C:\Documents and Settings\KRISHNA JYOTHI\Local Settings\Temporary Internet Files\Content.IE5\Cache3"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Cache\Paths\path4]
+"CachePath"="C:\Documents and Settings\KRISHNA JYOTHI\Local Settings\Temporary Internet Files\Content.IE5\Cache4"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Media Device Manager]
+"Log.Filename"="C:\WINDOWS\system32\Wmdm.log"
+[HKEY_USERS\S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Desktop"="C:\Documents and Settings\LocalService\Desktop"
+[HKEY_USERS\S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Favorites"="C:\Documents and Settings\LocalService\Favorites"
+[HKEY_USERS\S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"NetHood"="C:\Documents and Settings\LocalService\NetHood"
+[HKEY_USERS\S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Personal"="C:\Documents and Settings\LocalService\My Documents"
+[HKEY_USERS\S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"PrintHood"="C:\Documents and Settings\LocalService\PrintHood"
+[HKEY_USERS\S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Recent"="C:\Documents and Settings\LocalService\Recent"
+[HKEY_USERS\S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"SendTo"="C:\Documents and Settings\LocalService\SendTo"
+[HKEY_USERS\S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Start Menu"="C:\Documents and Settings\LocalService\Start Menu"
+[HKEY_USERS\S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Templates"="C:\Documents and Settings\LocalService\Templates"
+[HKEY_USERS\S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Programs"="C:\Documents and Settings\LocalService\Start Menu\Programs"
+[HKEY_USERS\S-1-5-19\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Startup"="C:\Documents and Settings\LocalService\Start Menu\Programs\Startup"
+[HKEY_USERS\S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Desktop"="C:\Documents and Settings\NetworkService\Desktop"
+[HKEY_USERS\S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Favorites"="C:\Documents and Settings\NetworkService\Favorites"
+[HKEY_USERS\S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"NetHood"="C:\Documents and Settings\NetworkService\NetHood"
+[HKEY_USERS\S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Personal"="C:\Documents and Settings\NetworkService\My Documents"
+[HKEY_USERS\S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"PrintHood"="C:\Documents and Settings\NetworkService\PrintHood"
+[HKEY_USERS\S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Recent"="C:\Documents and Settings\NetworkService\Recent"
+[HKEY_USERS\S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"SendTo"="C:\Documents and Settings\NetworkService\SendTo"
+[HKEY_USERS\S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Start Menu"="C:\Documents and Settings\NetworkService\Start Menu"
+[HKEY_USERS\S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Templates"="C:\Documents and Settings\NetworkService\Templates"
+[HKEY_USERS\S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Programs"="C:\Documents and Settings\NetworkService\Start Menu\Programs"
+[HKEY_USERS\S-1-5-20\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"Startup"="C:\Documents and Settings\NetworkService\Start Menu\Programs\Startup"
+[HKEY_USERS\S-1-5-21-796845957-1085031214-725345543-1003\Software\GRETECH\GomPlayer\OPTION]
+"sCachePath"="C:\DOCUME~1\KRISHN~1\LOCALS~1\Temp\__gstream__.gs"
+[HKEY_USERS\S-1-5-21-796845957-1085031214-725345543-1003\Software\Nero\Nero8\Nero - Burning Rom\Database]
+"LocalDbPath"="C:\Program Files\Nero\Nero8\Nero Burning Rom\NeroDb"
+[HKEY_USERS\S-1-5-21-796845957-1085031214-725345543-1003\Software\Nero\Nero8\Nero - Burning Rom\Database]
+"UserDbPath"="C:\Program Files\Nero\Nero8\Nero Burning Rom\UsrDb"
